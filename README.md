@@ -1,0 +1,2 @@
+# stakeland
+make stake world
